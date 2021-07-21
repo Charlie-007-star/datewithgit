@@ -1,3 +1,5 @@
 oh yeah babe
 
 second edit on hello file on feature branch commit added
+
+after merging two branches to one single in hello file edited 3 rd line on feature branch new commit
